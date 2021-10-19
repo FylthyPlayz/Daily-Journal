@@ -1,0 +1,25 @@
+{
+    "entries": [
+        {
+            "id": 1,
+            "date": "07/24/2025",
+            "concept": "HTML & CSS",
+            "entry": "We talked about HTML components and how to make grid layouts with Flexbox in CSS.",
+            "mood": "Ok"
+        },
+        {
+            "id": 2,
+            "date": "10/08/24/2025",
+            "concept": "JavaScript",
+            "entry": "We learned about a lot of different functions. So many functions.",
+            "mood": "Exasperated"
+        },
+        {
+            "id": 3,
+            "date": "10/11/2025",
+            "concept": "JavaScript Functions",
+            "entry": "Even more functions....",
+            "mood": "Barely functioning"
+        }
+    ]
+}
